@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Haroon arshad</h1>
-<h3 align="center">A passionate website developer from Pakistan</h3>
+<h3 align="center">A Full Stack Web Developer</h3>
 
 
 
 
 
-- 🌱 I’m currently learning **React, Express.js**
+- 🌱 I’m currently learning **Typescript, Nest.js**
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I write write articles and share tech knowledge on [Medium](Medium)
 
-- 💬 Ask me about **Javascript, React, Frontend Development, Software Architectures**
+- 💬 Ask me about **Full Stack Development, JavaScript, React, Next js, Node.js, Software Architectures, and more.**
 
-- 📫 How to reach me **arshadharoon216@gmail.com**
+- 📫 How to reach me **arshadharoon217@gmail.com**
+
+- Focused on full stack web development with an emphasis on modern practices such as clean code architecture, efficient debugging techniques, and scalable design patterns.
 
 
 ## 🌐 Socials:
