@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haroon arshad</h1>
+<h1 align="center">Hi 👋, I'm Haroon Arshad</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
 
