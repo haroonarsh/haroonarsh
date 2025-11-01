@@ -7,13 +7,15 @@
 
 - 🌱 I’m currently learning **Typescript, Nest.js**
 
+- 👯 Open to collaborating on **open-source contributions & web development projects**
+
 - 📝 I write write articles and share tech knowledge on [Medium](Medium)
 
 - 💬 Ask me about **Full Stack Development, JavaScript, React, Next js, Node.js, Software Architectures, and more.**
 
 - 📫 How to reach me **arshadharoon217@gmail.com**
 
-- Focused on full stack web development with an emphasis on modern practices such as clean code architecture, efficient debugging techniques, and scalable design patterns.
+- 🔭 Focused on full stack web development with an emphasis on modern practices such as clean code architecture, efficient debugging techniques, and scalable design patterns.
 
 
 ## 🌐 Socials:
